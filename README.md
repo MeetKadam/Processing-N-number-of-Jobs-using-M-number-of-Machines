@@ -1,5 +1,8 @@
 ﻿# Processing N number of Jobs using M number of Machines
 
+## Note
+This repository contains 4 codes in total - 2 codes in Java (1 with GUI and 1 without GUI) , and 2 in Python (1 with GUI and 1 without GUI).  
+
 ## Overview
 
 This project is a Java-based GUI application for job scheduling with a focus on minimizing idle time across multiple machines. The application allows users to input processing times for jobs and machines, then calculates and displays the optimal sequence of jobs, minimum elapsed time, and idle times for each machine.
